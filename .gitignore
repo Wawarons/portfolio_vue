@@ -1,0 +1,77 @@
+# Ignore les modules Node.js installés localement
+node_modules/
+
+# Ignore les fichiers de configuration spécifiques à l'environnement
+.env
+
+# Ignore les fichiers de sauvegarde
+*.log
+*.bak
+*.swp
+
+# Ignore les fichiers de compilation et les dossiers générés
+/dist/
+/.nuxt/
+/*.log
+/npm-debug.log*
+/yarn-debug.log*
+/yarn-error.log*
+/pnpm-debug.log*
+/test/unit/coverage/
+/test/e2e/reports/
+/build/
+
+# Ignore les fichiers temporaires
+*.tmp
+*.temp
+
+# Ignore les fichiers de configuration utilisateur
+.idea/
+.vscode/
+
+# Ignore les fichiers de sauvegarde
+*.backup
+*.save
+*.sav
+*.old
+*.original
+
+# Ignore les fichiers de cache
+*.cache
+
+# Ignore les fichiers de package-lock
+package-lock.json
+
+# Ignore les fichiers de dépendances pnpm
+shrinkwrap.yaml
+pnpm-lock.yaml
+
+# Ignore les fichiers d'environnement
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore les fichiers de logs
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+pnpm-debug.log*
+
+# Ignore les fichiers de tests
+coverage/
+.nyc_output/
+
+# Ignore les fichiers de configuration eslint
+.eslintcache
+
+# Ignore les fichiers temporaires
+
+# Ignore les fichiers de documentation
+doc/
+/docs/
+
+# Ignore les fichiers de build
+out/

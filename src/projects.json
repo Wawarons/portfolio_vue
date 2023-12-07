@@ -1,0 +1,61 @@
+{
+  "projects": [
+    {
+      "title": "Weather-App",
+      "url": "https://weather-app-five-rho-46.vercel.app",
+      "description": {
+
+        "en": "Discover Real-Time Weather, a User-Friendly Interface, Choose Your Favorite Cities for Your Homepage.",
+
+        "fr": "Explorez la météo en temps réel avec une interface conviviale."
+      },
+      "languages": [
+        "VueJs",
+        "TailwindCSS"
+      ],
+      "githubLink": "https://github.com/Wawarons/weather_app",
+      "id": 1,
+      "image_url": "/images/projects/weather_app.png",
+      "color": "#006589"
+    },
+    {
+      "title": "MovieDB",
+      "url": "https://wawadb.000webhostapp.com/src/login.php",
+      "description": {
+        "en": "Search for a movie, rate its direction or execution, and find the rated titles in the profile section. Retrieve information about movies, including the production company, genres, release date, and duration.",
+
+        "fr": "Recherchez un film, évaluez sa direction ou son exécution."
+      
+      },
+      "languages": [
+        "VanillaJS",
+        "SASS",
+        "PHP",
+        "SQLite"
+      ],
+      "githubLink": "https://github.com/Wawarons/MovieDB",
+      "id": 3,
+      "image_url": "/images/projects/movieDB.png",
+      "color": "#8E22B8F4"
+    },
+    {
+      "title": "ComiVerse",
+      "url": "https://comiverse.vercel.app",
+      "description": {
+
+        "en":"Retrieve all the comics from the Marvel Universe, gather information about characters such as Spider-Man or Hulk, and find out in which series and comics they have appeared. Discover the stories of lesser-known Marvel characters that are unfamiliar to the general public. Implemented in JavaScript and Next.js.",
+
+        "fr": "Retrouvez tous les comics et les personnages de l'univers Marvel,"
+      },
+      "languages": [
+        "NextJs",
+        "CSS3"
+      ],
+      "githubLink": "https://github.com/Wawarons/marvel-next",
+      "id": 4,
+      "image_url": "/images/projects/comiverse.png",
+      "color": "#FFFFFFF4"
+    }
+  ],
+  "total": 4
+}

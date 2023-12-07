@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body, html {
+    overflow-x: hidden;
+    min-height: 100%;
+    margin: 0;
+}
+
+
+html {
+    background-size: cover;
+    background: url("/images/socrate_thinking.webp") no-repeat fixed center;
+}
