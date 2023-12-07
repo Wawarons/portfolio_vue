@@ -49,9 +49,9 @@ const {values, errors, defineField} = useForm({
   }),
 });
 
-const email = defineField('email');
-const name = defineField("name");
-const message = defineField("message");
+const [email, emailProps]= defineField('email');
+const [name, nameProps] = defineField("name");
+const [message, messageProps] = defineField("message");
 
 const form = ref(null);
 
