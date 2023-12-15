@@ -15,28 +15,24 @@
       ],
       "githubLink": "https://github.com/Wawarons/weather_app",
       "id": 1,
-      "image_url": "/images/projects/weather_app.png",
-      "color": "#006589"
+      "image_url": "/images/projects/weather_app.png"
     },
     {
-      "title": "MovieDB",
-      "url": "https://wawadb.000webhostapp.com/src/login.php",
+      "title": "Philosapi",
+      "url": "https://bump.sh/wawarons/doc/philosapi",
       "description": {
-        "en": "Search for a movie, rate its direction or execution, and find the rated titles in the profile section. Retrieve information about movies, including the production company, genres, release date, and duration.",
+        "en": "Philosapi, exploring the rich world of philosophy.",
 
-        "fr": "Recherchez un film, évaluez sa direction ou son exécution."
+        "fr": "Philosapi, explorer le riche monde de la philosophie."
       
       },
       "languages": [
-        "VanillaJS",
-        "SASS",
-        "PHP",
-        "SQLite"
+        "NodeJS",
+        "Postgresql"
       ],
-      "githubLink": "https://github.com/Wawarons/MovieDB",
+      "githubLink": "https://github.com/Wawarons/philosapi",
       "id": 3,
-      "image_url": "/images/projects/movieDB.png",
-      "color": "#8E22B8F4"
+      "image_url": "/images/projects/philosapi.png"
     },
     {
       "title": "ComiVerse",
@@ -53,8 +49,7 @@
       ],
       "githubLink": "https://github.com/Wawarons/marvel-next",
       "id": 4,
-      "image_url": "/images/projects/comiverse.png",
-      "color": "#FFFFFFF4"
+      "image_url": "/images/projects/comiverse.png"
     }
   ],
   "total": 4

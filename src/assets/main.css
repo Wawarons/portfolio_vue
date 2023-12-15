@@ -9,8 +9,7 @@ body, html {
     margin: 0;
 }
 
-
-html {
+body {
     background-size: cover;
     background: url("/images/socrate_thinking.webp") no-repeat fixed center;
 }
