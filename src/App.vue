@@ -12,7 +12,7 @@
     <CompetencesSection/>
     <BarSection/>
     <ContactSection/>
-    <p class="relative left-0.5 bottom-0.5 my-1">&copy; Adrien Podsiadly 2023</p>
+    <p class="relative left-0.5 bottom-0.5 my-1">&copy; Adrien Podsiadly {{ actualYear }}</p>
   </div>
 </template>
 
@@ -23,4 +23,6 @@ import ProjectsSection from "@/components/ProjectsSection.vue";
 import PresentationSection from "@/components/PresentationSection.vue";
 import CompetencesSection from "@/components/CompetencesSection.vue";
 import ContactSection from "@/components/ContactSection.vue";
+
+let actualYear = new Date().getFullYear();
 </script>
