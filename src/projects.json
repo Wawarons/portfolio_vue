@@ -1,6 +1,24 @@
 {
   "projects": [
     {
+      "title": "Jeux Olympiques 2024",
+      "url": "https://jeux-olympiques.vercel.app",
+      "description": {
+
+        "en": "Buy tickets for the 2024 Olympic Games and live the Olympic adventure !",
+
+        "fr": "Achetez des billets pour les jeux olympiques de 2024 et vivez l'aventure olympienne !"
+      },
+      "languages": [
+        "ReactJs",
+        "TailwindCSS",
+        "Spring-boot"
+      ],
+      "githubLink": "https://gitlab.com/learning7801514/jeux-olympiques-2024",
+      "id": 0,
+      "image_url": "/images/projects/jo2024.png"
+    },
+    {
       "title": "Weather-App",
       "url": "https://weather-app-five-rho-46.vercel.app",
       "description": {

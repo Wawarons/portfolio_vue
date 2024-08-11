@@ -9,13 +9,13 @@
       <div
           class="flex flex-row flex-1 justify-center items-center">
         <div class="flex flex-row  flex-wrap justify-center w-1/2 p-2">
-          <LangageItem langage="vuejs"/>
+          <LangageItem langage="reactjs"/>
           <LangageItem langage="tailwindcss"/>
         </div>
         <div class="flex flex-row flex-wrap justify-center items-center w-1/2 border-l border-l-color-accent p-2">
           <LangageItem langage="sqlite"/>
           <LangageItem langage="postgresql"/>
-          <LangageItem langage="nodejs"/>
+          <LangageItem langage="spring-boot"/>
         </div>
       </div>
     </div>

@@ -1,6 +1,5 @@
 <template>
   <div class="p-4 flex flex-col flex-1 md:items-start items-center mt-20 mb-10 mx-auto w-fit">
-    <img src="@/assets/images/podsia.webp" alt="logo podsia" class="absolute top-1.5 left-5 w-1/12 h-auto min-w-[50px]">
     <a href="https://github.com/Wawarons" target="_blank" rel="noreferrer noopener">
       <i class="text-2xl absolute top-1.5 right-5 fa-brands fa-github hover:text-color-accent cursor-pointer"></i>
     </a>
